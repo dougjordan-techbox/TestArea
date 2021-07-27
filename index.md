@@ -1,6 +1,6 @@
-[Home](https://dougjordan-techbox.github.io/index.md "Homepage")
-[Notes](https://dougjordan-techbox.github.io/notes.md "Notes page")
-[Contacts](https://dougjordan-techbox.github.io/contacts.md "Contact page")
+[Home](https://dougjordan-techbox.github.io/index.html "Homepage")
+[Notes](https://dougjordan-techbox.github.io/notes.html "Notes page")
+[Contacts](https://dougjordan-techbox.github.io/contacts.html "Contact page")
 
 
 ## Welcome to Test Area
